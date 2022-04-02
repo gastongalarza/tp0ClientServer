@@ -1,0 +1,29 @@
+[INFO] 00:05:01:372 Servidor/(7361:7361): Servidor listo para recibir al cliente
+[INFO] 00:20:44:355 Servidor/(7630:7630): Servidor listo para recibir al cliente
+[INFO] 00:35:06:251 Servidor/(7872:7872): Servidor listo para recibir al cliente
+[INFO] 00:44:31:601 Servidor/(8132:8132): Servidor listo para recibir al cliente
+[INFO] 01:01:57:507 Servidor/(8700:8700): Servidor listo para recibir al cliente
+[INFO] 01:02:31:516 Servidor/(8700:8700): Se conecto un cliente!
+[ERROR] 01:02:31:518 Servidor/(8700:8700): el cliente se desconecto. Terminando servidor
+[INFO] 01:05:04:519 Servidor/(8777:8777): Servidor listo para recibir al cliente
+[INFO] 01:05:49:273 Servidor/(8777:8777): Se conecto un cliente!
+[INFO] 01:05:49:275 Servidor/(8777:8777): Me llego el mensaje valor
+[ERROR] 01:05:49:275 Servidor/(8777:8777): el cliente se desconecto. Terminando servidor
+[INFO] 11:39:07:951 Servidor/(5215:5215): Servidor listo para recibir al cliente
+[INFO] 11:40:27:269 Servidor/(5215:5215): Se conecto un cliente!
+[INFO] 11:40:27:269 Servidor/(5215:5215): Me llego el mensaje valor
+[ERROR] 11:40:29:650 Servidor/(5215:5215): el cliente se desconecto. Terminando servidor
+[INFO] 11:46:30:629 Servidor/(5512:5512): Servidor listo para recibir al cliente
+[INFO] 11:46:39:544 Servidor/(5512:5512): Se conecto un cliente!
+[INFO] 11:46:39:545 Servidor/(5512:5512): Me llego el mensaje valor
+[ERROR] 11:46:40:899 Servidor/(5512:5512): el cliente se desconecto. Terminando servidor
+[INFO] 12:05:35:388 Servidor/(6339:6339): Servidor listo para recibir al cliente
+[INFO] 12:05:48:772 Servidor/(6339:6339): Se conecto un cliente!
+[INFO] 12:05:48:776 Servidor/(6339:6339): Me llego el mensaje valor
+[INFO] 12:06:33:050 Servidor/(6339:6339): Me llegaron los siguientes valores:
+
+[INFO] 12:06:33:051 Servidor/(6339:6339): hola
+[INFO] 12:06:33:051 Servidor/(6339:6339): chau
+[INFO] 12:06:33:051 Servidor/(6339:6339): que tal
+[INFO] 12:06:33:051 Servidor/(6339:6339): como estas
+[ERROR] 12:06:33:051 Servidor/(6339:6339): el cliente se desconecto. Terminando servidor
