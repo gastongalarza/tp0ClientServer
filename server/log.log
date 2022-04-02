@@ -27,3 +27,12 @@
 [INFO] 12:06:33:051 Servidor/(6339:6339): que tal
 [INFO] 12:06:33:051 Servidor/(6339:6339): como estas
 [ERROR] 12:06:33:051 Servidor/(6339:6339): el cliente se desconecto. Terminando servidor
+[INFO] 15:02:36:183 Servidor/(7691:7691): Servidor listo para recibir al cliente
+[INFO] 15:04:40:270 Servidor/(7691:7691): Se conecto un cliente!
+[INFO] 15:04:40:273 Servidor/(7691:7691): Me llego el mensaje valor
+[INFO] 15:05:24:221 Servidor/(7691:7691): Me llegaron los siguientes valores:
+
+[INFO] 15:05:24:222 Servidor/(7691:7691): hola soy el cliente
+[INFO] 15:05:24:222 Servidor/(7691:7691): holas
+[INFO] 15:05:24:222 Servidor/(7691:7691): chau
+[ERROR] 15:05:24:222 Servidor/(7691:7691): el cliente se desconecto. Terminando servidor
